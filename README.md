@@ -5,10 +5,10 @@
 ### 🚀 Sobre mim  
 Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, funcionais e intuitivas.  
 Comecei minha jornada com **HTML** e **CSS**, explorando a construção de páginas e estilos.  
-Com o tempo, aprofundei meus estudos em **JavaScript** e **TypeScript**, trazendo mais dinâmica e segurança para meus projetos.
+Com o tempo, aprofundei meus estudos em **JavaScript** e **TypeScript**.
 
-Atualmente estou estudando **React** e **Node.js**, evoluindo no ecossistema JavaScript e buscando criar aplicações completas, do front ao back-end.  
-Faço parte da comunidade da **Rocketseat**, onde venho desenvolvendo habilidades e aprendendo as melhores práticas do mercado.
+Atualmente estou estudando **React** e **Node.js**,buscando criar aplicações completas, do front ao back-end.  
+
 
 ---
 
@@ -23,7 +23,7 @@ Faço parte da comunidade da **Rocketseat**, onde venho desenvolvendo habilidade
 ---
 
 ### 🎯 Objetivo  
-Aprimorar minhas habilidades e construir projetos cada vez mais completos, performáticos e profissionais, avançando na minha trajetória como desenvolvedor front-end — e futuramente full-stack.
+Aprimorar minhas habilidades e construir projetos cada vez mais completos, performáticos e profissionais.
 
 ---
 
@@ -32,4 +32,4 @@ Aprimorar minhas habilidades e construir projetos cada vez mais completos, perfo
 ---
 
 ### 🌐 Conecte-se comigo:  
-[GitHub](https://github.com/paulloroberto63) | [LinkedIn](https://www.linkedin.com/in/paulorobertokrehnke) | [Portfólio](https://meuportfolio.com)
+[GitHub](https://github.com/paulloroberto63) | [LinkedIn](https://www.linkedin.com/in/paulorobertokrehnke)

@@ -1,8 +1,5 @@
 # 👋 Olá, eu sou o Paulo Roberto Krehnke
 
-![Paullo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulloroberto63&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical
-)
-
 
 ### 🚀 Sobre mim  
 Sou um desenvolvedor em formação,Comecei minha jornada com **HTML** e **CSS**, explorando a construção de páginas e estilos. 

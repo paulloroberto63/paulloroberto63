@@ -2,6 +2,7 @@
 
 ![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulloroberto63&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+
 ### 🚀 Sobre mim  
 Sou um desenvolvedor em formação,Comecei minha jornada com **HTML** e **CSS**, explorando a construção de páginas e estilos. 
 Com o tempo, aprofundei meus estudos em **JavaScript** e **TypeScript**.

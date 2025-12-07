@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Paulo Roberto Krehnke
 
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulloroberto63&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Paullo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulloroberto63&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical
+)
 
 
 ### 🚀 Sobre mim  
